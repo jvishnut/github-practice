@@ -1,2 +1,2 @@
-# githyb-practice
+# github-practice
 This is for my practice purpose
